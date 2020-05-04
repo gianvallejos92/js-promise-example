@@ -1,4 +1,4 @@
-# Javascript Promise
+# Javascript Promise Example
 This is an example of using promises in Javascript. 
 We are going to connect two APIs using data from the first one on the second by promises.
 
